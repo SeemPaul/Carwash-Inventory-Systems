@@ -30,3 +30,11 @@
 3. Start Apache and MySQL in XAMPP.
 4. Open phpMyAdmin.
 5. Create a database named: carwash_inventory
+
+Purpose of the Project
+
+This project was developed as an inventory-focused system for managing carwash products, services, stock usage, and reports. It demonstrates skills in database management, backend development, frontend design, and system analysis.
+
+Developer
+
+Developed by Seem Paul / Peter Paul Juanica
